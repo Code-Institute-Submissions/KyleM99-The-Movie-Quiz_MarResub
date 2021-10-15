@@ -9,8 +9,7 @@ My main goal for the website is for the user to have a unique experience going t
 ![image](https://user-images.githubusercontent.com/87777851/137168615-6ee3d767-eb72-4ca9-9585-26204c04266b.png)
 <br>
 Picture of the website once the quiz code was completed. <br>
-![image](https://user-images.githubusercontent.com/87777851/137411320-00cc7f4c-ba40-45d5-8c6b-c86514a73a70.png)
-
+![image](https://user-images.githubusercontent.com/87777851/137411551-35abb1ad-393c-446a-9b64-2a44c83e01fe.png)
 
 ## Bug Testing
 Only issues I had were the website not taking the font I was using but grabbing the correct code needed for the font was the fix for that issue. Learning from the previous project where my images failed since they were uploaded the way we were taught during the Love Running Project, I have used the URL of the picture instead of dragging the image from my desktop into the code editor.
