@@ -7,6 +7,12 @@ My main goal for the website is for the user to have a unique experience going t
 
 ## Picture of initial website layout
 ![image](https://user-images.githubusercontent.com/87777851/137168615-6ee3d767-eb72-4ca9-9585-26204c04266b.png)
+<br>
+Picture of the website once the quiz code was completed. <br>
+![image](https://user-images.githubusercontent.com/87777851/137411320-00cc7f4c-ba40-45d5-8c6b-c86514a73a70.png)
+
+
+## Bug Testing
 
 
 
