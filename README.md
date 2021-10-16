@@ -19,4 +19,4 @@ Had an issue with JS where the quiz wasn't loading, but changing the order in wh
 ## Credits
 Initial idea taken from the Project Example Idea 2. <br>
 Movie images taken from google, all rights go to the respective movie owners.<br>
-I used multiple websites for help with my JS code, and I used a couple other websites for inspiration of the website.
+I used multiple websites for help with my JS code, and I used a couple other websites for inspiration of the website, I cannot remember or have the links to those websites i'm afraid.
