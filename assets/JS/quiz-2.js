@@ -1,4 +1,4 @@
-//
+//I got help with this code from Sitepoint as JS in the LMS was very confusing for me
 
 (function(){
     // Functions
