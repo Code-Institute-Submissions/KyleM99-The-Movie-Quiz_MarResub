@@ -82,12 +82,93 @@
         {
             question: "Who is the main character in the movie?",
             answers: {
-                1: "Lester 'Worm' Murphy",
-                2: "Teddy KGB",
-                3: "Mike McDermott"
+              1: "Lester 'Worm' Murphy",
+              2: "Teddy KGB",
+              3: "Mike McDermott"
             },
             correctAnswer: "3"
-        },
+          },
+          {
+            question: "What is the primary game that is played?",
+            answers: {
+              1: "Seven Card Stud",
+              2: "No-Limit Texas Hold'em",
+              3: "Blackjack"
+            },
+            correctAnswer: "2"
+          },
+          {
+            question: "Where did Worm and Mike meet?",
+            answers: {
+              1: "Worked at McDonalds together",
+              2: "New York University",
+              3: "Dwight Englewood Preparatory Academy"
+            },
+            correctAnswer: "3"
+          },
+          {
+            question: "What are the initials following Teddy's name?",
+            answers: {
+              1: "FBI",
+              2: "MI6",
+              3: "KGB"
+            },
+            correctAnswer: "3"
+          },
+          {
+            question: "How did worm end up in prison?",
+            answers: {
+              1: "Distributing fake credit cards",
+              2: "Making counterfeit money",
+              3: "Robbing a bank"
+            },
+            correctAnswer: "1"
+          },
+          {
+            question: "What is the casino Mike first thinks about while pretending to make a call during the first game with Teddy?",
+            answers: {
+              1: "Bellagio",
+              2: "MGM Grand",
+              3: "The Mirage"
+            },
+            correctAnswer: "3"
+          },
+          {
+            question: "Where does Mike hide his money?",
+            answers: {
+              1: "Sock Drawer",
+              2: "In a book called 'Super System'",
+              3: "In the basement"
+            },
+            correctAnswer: "2"
+          },
+          {
+            question: "During the very first game, how much money did Mike stake?",
+            answers: {
+              1: "$30,000",
+              2: "$10,000",
+              3: "$15,500"
+            },
+            correctAnswer: "1"
+          },
+          {
+            question: "What town do Mike and Worm play a municipal workers game in?",
+            answers: {
+              1: "Binghamton",
+              2: "Queens",
+              3: "Staten Island"
+            },
+            correctAnswer: "1"
+          },
+          {
+            question: "What game was Worm playing in prison before he was released?",
+            answers: {
+              1: "No-Limit Hold'em",
+              2: "Spades",
+              3: "Hearts"
+            },
+            correctAnswer: "3"
+          },
     ]
 
     buildQuiz();
