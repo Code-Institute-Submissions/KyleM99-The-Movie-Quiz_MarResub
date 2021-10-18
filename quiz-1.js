@@ -78,7 +78,17 @@
     const quizContainer = document.getElementById('quiz');
     const resultsContainer = document.getElementById('results');
     const submitButton = document.getElementById('submit');
-
+    const myQuestions = [
+        {
+            question: "Who is the main character in the movie?",
+            answers: {
+                1: "Lester 'Worm' Murphy",
+                2: "Teddy KGB",
+                3: "Mike McDermott"
+            },
+            correctAnswer: "3"
+        },
+    ]
 
     buildQuiz();
 
