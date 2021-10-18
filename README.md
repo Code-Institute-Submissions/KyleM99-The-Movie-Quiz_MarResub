@@ -14,7 +14,8 @@ Picture of the website once the quiz code was completed. <br>
 ## Bug Testing
 Had an issue with JS where the quiz wasn't loading, but changing the order in which the code is fixed that issue. Learning from the previous project where my images failed since they were uploaded the way we were taught during the Love Running Project, I have used the URL of the picture instead of dragging the image from my desktop into the code editor.
 <br>
-Bug where my media queries are not activating, so currently trying to figure that out.
+Currently getting an issue where it wont connect to my JS file... Turns out i just forgot to put the JS file into the JS folder as the script directory was correct, but it was just missing the file...
+
 
 
 
