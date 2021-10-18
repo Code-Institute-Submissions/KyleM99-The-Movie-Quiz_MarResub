@@ -5,6 +5,14 @@
 ### Hopes for the website.
 My main goal for the website is for the user to have a unique experience going through the game. I hope to have a website where as the user progresses through the quiz there score gets tallied and at the end they have a total score for the quiz. I would like to have pictures throughout the quiz so the user gets a visual aid with the questions.
 
+## Navigation
+Current website Navigation from main page. <br>
+![image](https://user-images.githubusercontent.com/87777851/137767769-43f9285a-d111-4209-bcea-5611c6f3c902.png)
+<br>
+Website navigation from the quiz page <br>
+![image](https://user-images.githubusercontent.com/87777851/137767831-471f7d23-072d-4c0b-934c-b67dbc8a149e.png)
+
+
 ## Picture of initial website layout
 ![image](https://user-images.githubusercontent.com/87777851/137168615-6ee3d767-eb72-4ca9-9585-26204c04266b.png)
 <br>
