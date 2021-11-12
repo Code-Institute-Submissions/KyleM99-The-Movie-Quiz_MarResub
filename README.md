@@ -27,10 +27,14 @@ Final picture of website. <br>
 Had an issue with JS where the quiz wasn't loading, but changing the order in which the code is fixed that issue. Learning from the previous project where my images failed since they were uploaded the way we were taught during the Love Running Project, I have used the URL of the picture instead of dragging the image from my desktop into the code editor.
 <br>
 Currently getting an issue where it wont connect to my JS file... Turns out i just forgot to put the JS file into the JS folder as the script directory was correct, but it was just missing the file...
+<br>
+After submitting he project initially, I changed what was needed for resubmission and added media queries. The only issue I have is not being able to change certain div's or buttons in the media queries for some reason. I tried targetting them and still not working. As I am stuck I will decide to leave it as it looks decent for other devices.
+<br>
+![image](https://user-images.githubusercontent.com/87777851/141449179-7feaf070-157e-4183-9896-c5f57b4cbcbd.png)
 
 
 
-
+<br>
 ## Credits
 Initial idea taken from the Project Example Idea 2. <br>
 Movie images taken from google, all rights go to the respective movie owners.<br>
