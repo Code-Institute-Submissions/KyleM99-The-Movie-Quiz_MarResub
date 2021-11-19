@@ -22,6 +22,8 @@ Picture of the website once the quiz code was completed. <br>
 Final picture of website. <br>
 ![image](https://user-images.githubusercontent.com/87777851/137767594-81285aea-7276-4481-a66a-1c1d3c6ed374.png)
 
+## Deployment
+As I have no clue what goes in this section as I have never seen one before, all I can say is deployment went well? The "deployed" website link is pretty self explanitory as its through github pages so there isnt much to say about this, No issues occured....
 
 ## Bug Testing
 Had an issue with JS where the quiz wasn't loading, but changing the order in which the code is fixed that issue. Learning from the previous project where my images failed since they were uploaded the way we were taught during the Love Running Project, I have used the URL of the picture instead of dragging the image from my desktop into the code editor.
