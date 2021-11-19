@@ -30,10 +30,9 @@ Had an issue with JS where the quiz wasn't loading, but changing the order in wh
 <br>
 Currently getting an issue where it wont connect to my JS file... Turns out i just forgot to put the JS file into the JS folder as the script directory was correct, but it was just missing the file...
 
-
-
 <br>
 ### Credits
+<br>
 Initial idea taken from the Project Example Idea 2. <br>
 Movie images taken from google, all rights go to the respective movie owners.<br>
 I needed a lot of help with my JS code as I was very confused with JS after the LMS, the main site i used was [sitepoint](https://www.sitepoint.com/)
